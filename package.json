@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "flask": "^0.2.10",
+    "python3": "^0.0.1",
+    "react-router-dom": "^7.7.1",
+    "sqlalchemy": "^10.1.1"
+  }
+}
